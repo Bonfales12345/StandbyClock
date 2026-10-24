@@ -4,4 +4,4 @@
 
 [Build instructions](./BUILD.md)
 
-Made with AI assistance
+Made with AI assistance.
